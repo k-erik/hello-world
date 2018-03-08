@@ -1,2 +1,2 @@
 # hello-world
-Hello World Repository, a very useful project indeed.
+Somewhere, something incredible is waiting to be known.
